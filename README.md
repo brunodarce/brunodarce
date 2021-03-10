@@ -11,4 +11,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodarce/)](https://www.linkedin.com/in/brunodarce/)
-[![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodarce/)](https://www.linkedin.com/in/brunodarce/)
+[![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/brunodarce)](https://twitter.com/brunodarce)
