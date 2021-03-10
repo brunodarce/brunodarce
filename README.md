@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Bruno d'Arce 🏼‍🇧🇷
+My name is Bruno d'Arce
 
 I'm A Computer Scientist, that has been working as a Java and Salesforce developer since 2014.  💻
 
